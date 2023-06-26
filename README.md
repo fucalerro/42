@@ -1,1 +1,1 @@
-Code for projects at the Ecole 42 piscine
+Ecole 42 Piscine projects
